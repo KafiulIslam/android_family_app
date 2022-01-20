@@ -1,16 +1,5 @@
 # family_app
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![homepage](https://user-images.githubusercontent.com/90089792/150353909-3bc30cd0-1899-4c54-99a4-fa5072527b6a.png)
+![editpage](https://user-images.githubusercontent.com/90089792/150353927-4a6d3288-f3c8-4d0f-a86f-e98c40b8a0d0.png)
+![profilepage](https://user-images.githubusercontent.com/90089792/150353951-b0923aba-55fd-41dd-b461-0126acfc5063.png)
